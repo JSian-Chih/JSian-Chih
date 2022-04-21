@@ -1,4 +1,8 @@
-### Hi there 👋
+# Chao-Hsian Chih 👋
+
+Taiwan, JSian.Chih@gmain.com
+
+## Professional summary
 
 <!--
 **JSian-Chih/JSian-Chih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
