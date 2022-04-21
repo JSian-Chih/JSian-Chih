@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](JSian.Chih@gmail.com)
 
-## Now
+## About Me
 
 I'm a master’s student majoring in aeronautics and astronautics at National Cheng Kung University.
 
