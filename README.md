@@ -1,8 +1,10 @@
-# Chao-Hsian Chih 👋
+# Hey there! I'm Chao-Hsian Chih. 👋
 
 Taiwan, JSian.Chih@gmain.com
 
-## Professional summary
+## Nom Summary
+
+I'm a master’s student majoring in aeronautics and astronautics at National Cheng Kung University.
 
 <!--
 **JSian-Chih/JSian-Chih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
